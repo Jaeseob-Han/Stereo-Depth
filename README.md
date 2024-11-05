@@ -4,7 +4,7 @@
  - HW3 Stereo Depth Calculation.ipynb 내 빈 코드를 작성할 것
  - 작성된 코드를 github 내 업로드 후, github 주소 첨부
  - 결과물 첨부   
-![car_racing_result](https://github.com/user-attachments/assets/c490078d-b8b4-4736-8ed3-137c6fc7ecce)
+![depth map](https://github.com/user-attachments/assets/c5a86722-d07d-4a39-9b2f-b8ff76f36fc7)
 
 ### 2. compute_left_disparity_map 함수 내 Parameter 들을 변화시켜보면서, 결과에 어떤 영향이 있는지 분석해볼 것 (e.g. num_disparities, block_size, window_size 등) 
  - 이미지 상 어떤 변화가 나타나는지 비교 분석
